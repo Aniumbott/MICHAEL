@@ -1,5 +1,6 @@
-## MICHAEL v1.0 (My Inteligent Character Having An Enhanced Loyalty)
 ---
+## MICHAEL v1.0 (My Inteligent Character Having An Enhanced Loyalty)
+
 ## Details
 It is a personal voice assistant program made wtith __Python__. It can responses on your commans in a particular way. It is not an AI or made with ML, It is a simple interactive program, Which I started to create from 23 Julay 2020 as a project to boost my skills.
 
@@ -51,5 +52,6 @@ $ pip install psutil
 
 ## Contact :
 If you found any type of error or suggestions, feel free to contact me on [Linkedin](https://www.linkedin.com/in/aniket-rana-462347201/)
+
 ---
-# THANK YOU FOR USING MICHAEL
+## THANK YOU FOR USING MICHAEL
