@@ -1,12 +1,9 @@
 ## MICHAEL v1.0 (My Inteligent Character Having An Enhanced Loyalty)
 ---
-
 ## Details
----
 It is a personal voice assistant program made wtith __Python__. It can responses on your commans in a particular way. It is not an AI or made with ML, It is a simple interactive program, Which I started to create from 23 Julay 2020 as a project to boost my skills.
 
 ## Features :
----
 
 ### 1. Multiple Modes
  It works on two modes 1.Text Mode and 2.Speak Mode.
@@ -24,7 +21,6 @@ It can also open/close any programs/file of the device by just giving a command.
 It stays always awake and ready to response, And work in the background also while you are doing your wor.
 
 ## Set Up :
----
 1. First of all you should have installed latest version of Python on your Device. If not then download it from https://www.python.org/downloads/ according to your device. Make sure you check mark __Add tto path__ while installing it.
 2. After that open your C-prompt/ IDE terminal window and type this commands.
 ```
@@ -41,7 +37,6 @@ $ pip install psutil
 7. Launch the __Shortcut__ and you are good to go.
 
 ## Commands for Different Tasks :
----
 * You can change to any mode bu entering ```text mode``` or ```speak mode``` or ```change mode```.
 * You can ask questions like ```Who is Elon Musk ?``` or can also gives the input in the same way when required.
 * When you are using __Speak Mode__, you will see ```Hearing...``` which means __MICHAEL__ is waiting for your reply.
@@ -50,13 +45,11 @@ $ pip install psutil
 * You can open/close any program/file by the command ```open (Name of the Program/File Name)``` to open and ```close (Name of the Program/File Name)``` to close it.
 
 ## Demerits :
----
 * It's still a prototype not a fully functional program.
 * It's still optimise for __Windows__.
 * It is Still in development...
 
 ## Contact :
----
 If you found any type of error or suggestions, feel free to contact me on [Linkedin](https://www.linkedin.com/in/aniket-rana-462347201/)
-
+---
 # THANK YOU FOR USING MICHAEL
