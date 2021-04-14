@@ -50,8 +50,8 @@ $ pip install psutil
 * It's still optimise for __Windows__.
 * It is Still in development...
 
-## Contact :
-If you found any type of error or suggestions, feel free to contact me on [Linkedin](https://www.linkedin.com/in/aniket-rana-462347201/)
+## Inspired from : 
+https://youtu.be/Lp9Ftuq2sVI
 
 ---
 ## THANK YOU FOR USING MICHAEL
