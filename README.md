@@ -30,6 +30,7 @@ $ pip install pyttsx3
 $ pip install SpeechRecognition
 $ pip install wikipedia
 $ pip install psutil
+$ pip install PyAudio
 ```
 3. Install __sam,mary,mike.exe__ (It is for the voice of the __MICHAEL__, If you want to give him a unique voice then change the id ```engine.setProperty()``` from __-2__ to something else, but the condition is that you should already have some preinstalled voices in your Device.)
 4. All the multimedia files on which you want to let __MICHAEL__ have access on must be stored in the __Shared files__ directory.
