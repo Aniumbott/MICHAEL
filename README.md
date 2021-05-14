@@ -39,7 +39,7 @@ $ pip install PyAudio
 7. Launch the __Shortcut__ and you are good to go.
 
 ## Commands for Different Tasks :
-* You can change to any mode bu entering ```text mode``` or ```speak mode``` or ```change mode```.
+* You can change to any mode by entering ```text mode``` or ```speak mode```.
 * You can ask questions like ```Who is Elon Musk ?``` or can also gives the input in the same way when required.
 * When you are using __Speak Mode__, you will see ```Hearing...``` which means __MICHAEL__ is waiting for your reply.
 * You can access your multimedial with the command ```play (Name of the audio/video)``` or you can create a playlist by the command ```play a playlist``` and he will ask you to enter the No. and the Names of the songs, or you can also give a command already including the No.
