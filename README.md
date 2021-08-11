@@ -2,7 +2,7 @@
 ## MICHAEL v1.0 (My Inteligent Character Having An Enhanced Loyalty)
 
 ## Details
-It is a personal voice assistant program made wtith __Python__. It can responses on your commans in a particular way. It is not an AI or made with ML, It is a simple interactive program, Which I started to create from 23 Julay 2020 as a project to boost my skills.
+It is a personal voice assistant program made with Python. It can responses on your commands in a particular way. It is not an AI or made with ML, It is a simple interactive program, Which I started to create from 23 July 2020 as a project to boost my skills.
 
 ## Features :
 
